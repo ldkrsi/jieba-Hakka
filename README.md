@@ -1,4 +1,5 @@
 # jieba-Hakka
+[![DOI](https://zenodo.org/badge/136745050.svg)](https://zenodo.org/badge/latestdoi/136745050)
 
 以 jieba 的演算法替換其詞庫及 HMM 機率表所製作的客家語斷詞程式
 
